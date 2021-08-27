@@ -11,7 +11,7 @@
       </div>
       <div class="address">
         项目地址：
-        <a target="_blank" href="https://github.com">https://github.com</a>
+        <a target="_blank" href="https://github.com/HongY-Chen/clown-store">https://github.com/HongY-Chen/clown-store</a>
       </div>
     </div>
     </div>
